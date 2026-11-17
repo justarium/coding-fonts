@@ -1,0 +1,40 @@
+{
+  "themes": [
+    "dark",
+    "light"
+  ],
+  "languages": [
+    {
+      "value": "charmap",
+      "label": "Characters"
+    },
+    {
+      "value": "c",
+      "label": "C"
+    },
+    {
+      "value": "go",
+      "label": "Go"
+    },
+    {
+      "value": "java",
+      "label": "Java"
+    },
+    {
+      "value": "javascript",
+      "label": "JavaScript"
+    },
+    {
+      "value": "python",
+      "label": "Python"
+    },
+    {
+      "value": "rust",
+      "label": "Rust"
+    },
+    {
+      "value": "sql",
+      "label": "SQL"
+    }
+  ]
+}
